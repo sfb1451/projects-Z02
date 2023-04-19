@@ -1,0 +1,18 @@
+abstract: The Animal Motor Core Facility will serve as an expert platform for the
+  characterisation and quantification of animal motor and cognitive behaviour, as
+  well as the assessment of the underlying neuronal mechanisms. Z02 will provide (i)
+  an extensive standardised battery of behavioural tests probing motor functions in
+  rodents, and (ii) systems neuroscience tools, including optogenetics and calcium
+  imaging, and (iii) standardised preprocessing and data analysis. The data will be
+  provided access to a shared database via the utilities provided by INF.hange of
+  expertise between and across projects of the different research areas and will ensure
+  adherence to good scientific practice and encourage open data access.
+authors:
+- {family-names: Korotkova, given-names: Tatiana}
+- {family-names: Büschges, given-names: Ansgar}
+- {family-names: Gatto, given-names: Graziana}
+- {family-names: Petzold, given-names: Anne}
+- {family-names: Scheffer, given-names: Robson}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'Z02: Animal Motor Circuits Core Facility'
