@@ -1,6 +1,6 @@
 name	Gatto 12mm beam PCCD3 CNO 9wks
 title	Kinematic of 9-week-old CNO-treated PCCD3 mice walking on a 12 mm wide beam
-description	Original SIMI videos, DeepLabCut-tracked videos and csv files of body kinematics of 9-week-old ChAT-Dre;Pitx2-Cre;R26-LSL-RSR-hM3D::zsGreen mice injected with CNO (2 µg/gram of weight) 15 minutes before walking on a wide 12 mm beam. Mixed group of control and experimental mice. Individual trials for each mouse are recorded from 8 cameras and metadata for synchronization is stored as *.smp files.
+description	Original SIMI videos, DeepLabCut-tracked videos and csv files of body kinematics of 9-week-old ChAT-Dre;Pitx2-Cre;R26-LSL-RSR-hM3D::zsGreen mice injected with CNO (2 Âµg/gram of weight) 15 minutes before walking on a wide 12 mm beam. Mixed group of control and experimental mice. Individual trials for each mouse are recorded from 8 cameras and metadata for synchronization is stored as *.smp files.
 crc-project	Z02
 version	Latest
 sample[organism]	NCBITaxon:10090
