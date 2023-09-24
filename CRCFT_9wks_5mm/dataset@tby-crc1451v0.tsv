@@ -1,0 +1,7 @@
+name	Gatto 5mm beam CRCFT 9 wks
+title	Kinematic of 9-week-old CRCFT mice walking on a 5 mm wide beam
+description	Original SIMI videos, DeepLabCut-tracked videos and csv files of body kinematics of 9-week-old hCdx2-FlpO;CR-Cre;R26-Ai65-LSL-FSF-tdTomato;Tau-LSL-FSF-DTR mice walking on a wide 5 mm beam. Control Group. Individual trials for each mouse are recorded from 8 cameras and metadata for synchronization is stored as *.smp files.
+crc-project	Z02
+version	Latest
+sample[organism]	NCBITaxon:10090
+sample[organism-part]	UBERON:0000982

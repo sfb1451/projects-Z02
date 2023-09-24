@@ -1,0 +1,7 @@
+name	Kononenko 5mm beam MTCDZ 10 wks
+title	Kinematic of 10-week-old MTCDZ mice walking on a 5 mm wide beam
+description	Original SIMI videos, DeepLabCut-tracked videos and csv files of body kinematics of 10-week-old L7-Cre;AP2µflox/flox;R26-Ai9-LSL-tdTomato mice walking on a wide 5 mm beam. Mixed group of control and mutant mice. Individual trials for each mouse are recorded from 8 cameras and metadata for synchronization is stored as *.smp files.
+crc-project	A02, Z02
+version	Latest
+sample[organism]	NCBITaxon:10090
+sample[organism-part]	UBERON:0000982

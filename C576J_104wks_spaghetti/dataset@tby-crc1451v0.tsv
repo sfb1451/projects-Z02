@@ -1,0 +1,7 @@
+name	Korotkova spaghetti WT 104 wks
+title	Kinematic of 104-week-old WT mice handling spaghetti
+description	Original SIMI videos, DeepLabCut-tracked videos and csv files of body kinematics of 36-week-old C57BL/6J mice handling spaghetti. Control group. Individual trials for each mouse are recorded from 8 cameras and metadata for synchronization is stored as *.smp files.
+crc-project	Z02
+version	Latest
+sample[organism]	NCBITaxon:10090
+sample[organism-part]	UBERON:0000982

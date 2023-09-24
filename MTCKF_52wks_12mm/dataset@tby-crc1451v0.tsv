@@ -1,0 +1,7 @@
+name	Kononenko 12mm beam MTCKF 52 wks
+title	Kinematic of 52-week-old MTCKF mice walking on a 12 mm wide beam
+description	Original SIMI videos, DeepLabCut-tracked videos and csv files of body kinematics of 52-week-old AP2a1_em knockout mice walking on a wide 12 mm beam. Mixed group of control and mutant mice. Individual trials for each mouse are recorded from 8 cameras and metadata for synchronization is stored as *.smp files.
+crc-project	A02, Z02
+version	Latest
+sample[organism]	NCBITaxon:10090
+sample[organism-part]	UBERON:0000982

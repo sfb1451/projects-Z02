@@ -1,0 +1,7 @@
+name	Kononenko 5mm beam JTBEQ 12 wks
+title	Kinematic of 12-week-old JTBEQ mice walking on a 5 mm wide beam
+description	Original SIMI videos, DeepLabCut-tracked videos and csv files of body kinematics of 12-week-old VGAT-Cre;Atg5flox/flox mice walking on a wide 5 mm beam. Mixed group of control and mutant mice. Individual trials for each mouse are recorded from 8 cameras and metadata for synchronization is stored as *.smp files.
+crc-project	A02, Z02
+version	Latest
+sample[organism]	NCBITaxon:10090
+sample[organism-part]	UBERON:0000982
